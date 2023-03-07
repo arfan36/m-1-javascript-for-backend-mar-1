@@ -1,5 +1,17 @@
 {
+  "name": "m-1-javascript-for-backend-mar-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.SyncAsync.js",
+  "type": "module",
   "dependencies": {
     "colors": "^1.4.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
